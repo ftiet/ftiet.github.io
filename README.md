@@ -1,2 +1,2 @@
 # ftiet.github.io
-Personal Website
+Personal website hosted at ftiet.com
